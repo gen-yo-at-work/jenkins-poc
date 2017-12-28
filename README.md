@@ -1,3 +1,4 @@
+22: war->jar(temporary)
 ci test #21: jar->war, skip web.xml
 ci test #20: war -> jar
 ci test #19: fix: path to pom.xml
