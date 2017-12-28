@@ -1,3 +1,4 @@
+ci test #19: fix: path to pom.xml
 ci test #18: path to pom.xml
 ci test #17: specified maven goal(s)
 ci test #16: changed aws deploy target
