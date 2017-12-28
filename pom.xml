@@ -4,7 +4,8 @@
   <groupId>jp.co.japandisplay</groupId>
   <artifactId>ReadXLS</artifactId>
   <!--packaging>war</packaging-->
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
+  <failOnMissingWebXml>false</failOnMissingWebXml> 
   <version>0.0.1-SNAPSHOT</version>
   <name>Read Excel Program</name>
   <url>http://maven.apache.org</url>
