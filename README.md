@@ -1,3 +1,4 @@
+ci test #20: war -> jar
 ci test #19: fix: path to pom.xml
 ci test #18: path to pom.xml
 ci test #17: specified maven goal(s)
