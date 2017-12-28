@@ -1,3 +1,4 @@
+ci test #17: specified maven goal(s)
 ci test #16: changed aws deploy target
 ci test #15 (reverted matrix back to constants)
 ci test #14 (added aws deploy target)
